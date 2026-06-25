@@ -8,6 +8,9 @@ My initial motivation for this project was a simple question — "What if an AI 
 
 This project combines the concept of Akinator's AI questioning mechanic with the classic Guess Who board game — but instead of cartoon faces, the AI profiles real US cities using FBI crime data. It is part game, part city profiler, part information theory demonstration.
 
+## Game Link 
+*Streamlit Link:* https://criminalmindprofileio.streamlit.app/ 
+
 ## Data Sources
 
 - *Primary:* FBI Crime in the United States 2024 — UCR Program
