@@ -11,9 +11,11 @@ This project combines the concept of Akinator's AI questioning mechanic with the
 ## Data Sources
 
 - *Primary:* FBI Crime in the United States 2024 — UCR Program
-  https://cde.fbi.gov/dataexplorer/pages/downloads
+ https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home 
+
 - *Coordinates:* simplemaps US Cities Dataset
-  https://simplemaps.com/data/us-cities
+  https://simplemaps.com/data/us-cities 
+
 
 ## The Objectives
 
