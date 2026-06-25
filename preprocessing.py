@@ -7,7 +7,7 @@ import streamlit as st
 # Using relative paths here so the project works on any machine —
 # no more hardcoded "/Users/enoshniju/Desktop/..." nonsense
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR  = os.path.join(BASE_DIR, "..", "Imp_crime_files")
+DATA_DIR  = BASE_DIR 
 
 TABLE_8_PATH  = os.path.join(DATA_DIR, "CIUS_Table_8_Offenses_Known_to_Law_Enforcement_by_State_by_City_2024.xlsx")
 TABLE_12_PATH = os.path.join(DATA_DIR, "CIUS_Table_12_Crime_Trends_by_Population_Group_2023-2024.xlsx")
