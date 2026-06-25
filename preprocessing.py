@@ -19,7 +19,7 @@ TABLE_22_PATH = os.path.join(DATA_DIR, "CIUS_Table_22_Aggravated_Assault_by_Stat
 HOM_7_PATH    = os.path.join(DATA_DIR, "CIUS_Expanded_Homicide_Data_Table_7_Murder_Types_of_Weapons_Used_Percent_Distribution_by_Region_2024.xlsx")
 HOM_10_PATH   = os.path.join(DATA_DIR, "CIUS_Expanded_Homicide_Data_Table_10_Murder_Circumstances_by_Relationship_2024.xlsx")
 HOM_11_PATH   = os.path.join(DATA_DIR, "CIUS_Expanded_Homicide_Data_Table_11_Murder_Circumstances_by_Weapon_2024.xlsx")
-CITIES_PATH   = os.path.join(BASE_DIR, "uscities.csv")
+CITIES_PATH = os.path.join(BASE_DIR, "uscities.csv")
 
 # These are the raw crime count columns from Table 8
 CRIME_COLS = ['violent_crime', 'murder', 'rape', 'robbery',
