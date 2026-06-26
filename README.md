@@ -11,7 +11,7 @@ This project combines the concept of Akinator's AI questioning mechanic with the
 ## Game Link 
 - *Streamlit Link:* https://criminalmindprofileio.streamlit.app/ 
 ## Video Explanation Link
-- https://youtu.be/mFsmr7SLuN0 
+- *YouTube Link:* https://youtu.be/mFsmr7SLuN0 
 
 ## Data Sources
 
